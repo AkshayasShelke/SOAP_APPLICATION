@@ -1,0 +1,17 @@
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.Home.resources
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.Properties.Resources.resources
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.TransactionForm.resources
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.csproj.GenerateResource.Cache
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\SOAP_Application.exe.config
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\SOAP_Application.exe
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\SOAP_Application.pdb
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\Avalara.AvaTax.Adapter.dll
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.exe
+c:\users\akshaya.shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.pdb
+C:\Users\Akshaya.Shelke\Documents\Visual Studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.csprojResolveAssemblyReference.cache
+C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\log4net.dll
+C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\LogentriesCore.dll
+C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\LogentriesLog4net.dll
+C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\bin\Debug\log4net.xml
+C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.csproj.SOAP_Application.exe.config
+C:\Users\Akshaya.Shelke\Documents\Visual Studio 2015\Projects\SOAP_Application\SOAP_Application\obj\Debug\SOAP_Application.LoginForm.resources
