@@ -1,0 +1,86 @@
+2018-02-01 17:52:54,404 [10] INFO  C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\TransactionForm.cs <?xml version="1.0" encoding="utf-16"?>
+<GetTaxRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OriginAddress>
+    <Line1>900 winslow way e</Line1>
+    <City>BI</City>
+    <Region>WA</Region>
+    <PostalCode>98110</PostalCode>
+    <TaxRegionId>0</TaxRegionId>
+  </OriginAddress>
+  <DestinationAddress>
+    <Line1>900 winslow way e</Line1>
+    <City>BI</City>
+    <Region>WA</Region>
+    <PostalCode>98110</PostalCode>
+    <TaxRegionId>0</TaxRegionId>
+  </DestinationAddress>
+  <CompanyCode>AkshayaShelke</CompanyCode>
+  <DocType>SalesInvoice</DocType>
+  <DocDate>2018-02-01T17:52:42</DocDate>
+  <CustomerCode>sdg</CustomerCode>
+  <Discount>0</Discount>
+  <DetailLevel>Document</DetailLevel>
+  <Commit>false</Commit>
+  <TaxOverride>
+    <TaxOverrideType>None</TaxOverrideType>
+    <TaxAmount>0</TaxAmount>
+    <TaxDate>1900-01-01T00:00:00</TaxDate>
+  </TaxOverride>
+  <ServiceMode>Automatic</ServiceMode>
+  <PaymentDate>1900-01-01T00:00:00</PaymentDate>
+  <ExchangeRate>1</ExchangeRate>
+  <ExchangeRateEffDate>1900-01-01T00:00:00</ExchangeRateEffDate>
+  <IsSellerImporterOfRecord>false</IsSellerImporterOfRecord>
+  <BRBuyerType>IND</BRBuyerType>
+  <BRBuyer_IsExemptOrCannotWH_IRRF>false</BRBuyer_IsExemptOrCannotWH_IRRF>
+  <BRBuyer_IsExemptOrCannotWH_PISRF>false</BRBuyer_IsExemptOrCannotWH_PISRF>
+  <BRBuyer_IsExemptOrCannotWH_COFINSRF>false</BRBuyer_IsExemptOrCannotWH_COFINSRF>
+  <BRBuyer_IsExemptOrCannotWH_CSLLRF>false</BRBuyer_IsExemptOrCannotWH_CSLLRF>
+  <BRBuyer_IsExempt_PIS>false</BRBuyer_IsExempt_PIS>
+  <BRBuyer_IsExempt_COFINS>false</BRBuyer_IsExempt_COFINS>
+  <BRBuyer_IsExempt_CSLL>false</BRBuyer_IsExempt_CSLL>
+</GetTaxRequest>
+2018-02-01 17:53:10,030 [10] INFO  C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\TransactionForm.cs <?xml version="1.0" encoding="utf-16"?>
+<GetTaxResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+2018-02-01 17:53:52,191 [10] INFO  C:\Users\Akshaya.Shelke\documents\visual studio 2015\Projects\SOAP_Application\SOAP_Application\TransactionForm.cs <?xml version="1.0" encoding="utf-16"?>
+<GetTaxRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OriginAddress>
+    <Line1>900 winslow way e</Line1>
+    <City>BI</City>
+    <Region>WA</Region>
+    <PostalCode>98110</PostalCode>
+    <TaxRegionId>0</TaxRegionId>
+  </OriginAddress>
+  <DestinationAddress>
+    <Line1>900 winslow way e</Line1>
+    <City>BI</City>
+    <Region>WA</Region>
+    <PostalCode>98110</PostalCode>
+    <TaxRegionId>0</TaxRegionId>
+  </DestinationAddress>
+  <CompanyCode>AkshayaShelke</CompanyCode>
+  <DocType>SalesInvoice</DocType>
+  <DocDate>2018-02-01T17:52:42</DocDate>
+  <CustomerCode>sdg</CustomerCode>
+  <Discount>0</Discount>
+  <DetailLevel>Document</DetailLevel>
+  <Commit>false</Commit>
+  <TaxOverride>
+    <TaxOverrideType>None</TaxOverrideType>
+    <TaxAmount>0</TaxAmount>
+    <TaxDate>1900-01-01T00:00:00</TaxDate>
+  </TaxOverride>
+  <ServiceMode>Automatic</ServiceMode>
+  <PaymentDate>1900-01-01T00:00:00</PaymentDate>
+  <ExchangeRate>1</ExchangeRate>
+  <ExchangeRateEffDate>1900-01-01T00:00:00</ExchangeRateEffDate>
+  <IsSellerImporterOfRecord>false</IsSellerImporterOfRecord>
+  <BRBuyerType>IND</BRBuyerType>
+  <BRBuyer_IsExemptOrCannotWH_IRRF>false</BRBuyer_IsExemptOrCannotWH_IRRF>
+  <BRBuyer_IsExemptOrCannotWH_PISRF>false</BRBuyer_IsExemptOrCannotWH_PISRF>
+  <BRBuyer_IsExemptOrCannotWH_COFINSRF>false</BRBuyer_IsExemptOrCannotWH_COFINSRF>
+  <BRBuyer_IsExemptOrCannotWH_CSLLRF>false</BRBuyer_IsExemptOrCannotWH_CSLLRF>
+  <BRBuyer_IsExempt_PIS>false</BRBuyer_IsExempt_PIS>
+  <BRBuyer_IsExempt_COFINS>false</BRBuyer_IsExempt_COFINS>
+  <BRBuyer_IsExempt_CSLL>false</BRBuyer_IsExempt_CSLL>
+</GetTaxRequest>
